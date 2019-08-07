@@ -223,7 +223,7 @@ en:
         footer: 'BigBlueButton is an open source web conferencing system. For more information on BigBlueButton, see https://bigbluebutton.org/.'
   landing:
     # about: "%{href} is a simple front-end for your BigBlueButton open-source web conferencing server. You can create your own rooms to host sessions, or join others using a short and convenient link."
-    about: %{href} hadir sebagai usaha untuk merespon masalah bersama yaitu banyak lulusan TI atau profesional TI yang kemampuannya kurang sementara perusahaan-perusahaan membutuhkan profesional TI terbaik dengan kemampuan terkini. Selain itu, perkembangan TI global berlangsung sangat cepat dan kemampuan profesional TI disarankan selaras dengan perkembangan tersebut. Profesional TI diharapkan dapat membantu perusahaan dalam mengadopsi TI terkini untuk mendorong proses bisnis perusahaan. Imbal balik bagi profesional TI dari proses ini adalah penghasilan yang cukup dan kesejahteraan yang baik yang diberikan oleh perusahaan.
+    about: "%{href} hadir sebagai usaha untuk merespon masalah bersama yaitu banyak lulusan TI atau profesional TI yang kemampuannya kurang sementara perusahaan-perusahaan membutuhkan profesional TI terbaik dengan kemampuan terkini."
     welcome: Selamat Datang di Kelas NolSatu
     # video: Watch our tutorial on using Greenlight
     # video: NolSatu.id
